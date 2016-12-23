@@ -12,7 +12,7 @@ The first step to approach this task is having an understanding of the data. For
 
 From this infomation a couple features can be generated: 
 - total: Total of data transmitted to an user (p2p + cdn)
-- percentage_p2p: Percentage of the total data transmitted through P2P (p2p / cdn).
+- percentage_p2p: Percentage of the total data transmitted through P2P (p2p / total).
 
 If we visualize the data, we can notice a couple interesting findings.
 
